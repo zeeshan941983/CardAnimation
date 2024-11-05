@@ -1,8 +1,8 @@
-# Dream Big App
+# Ui Challenge
 
 ## Overview
 
-The **Dream Big App** is a motivational application built using Flutter. It emphasizes the importance of perseverance and hard work with a beautifully designed user interface and engaging animations. The app serves as a reminder to dream big, work hard, and stay humble in your pursuits.
+The **Ui Challenge** is a motivational application built using Flutter. It emphasizes the importance of perseverance and hard work with a beautifully designed user interface and engaging animations. The app serves as a reminder to dream big, work hard, and stay humble in your pursuits.
 
 ## Features
 
